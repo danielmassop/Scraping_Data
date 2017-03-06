@@ -149,7 +149,7 @@ for (i in teams){
   print(i)
 }
 
-months = c('01')
+months = c('01','02','03')
 
 for (i in teams){
   for (k in months){
